@@ -12,7 +12,7 @@ Prevenir desaparecimentos de crianças em ambientes públicos através de uma pu
 
 ## ⚙️ Tecnologias Utilizadas
 
-- Arduino UNO
+- Arduino PRO MINI
 - Módulo Bluetooth HC-06
 - Linguagem C++ (Arduino IDE)
 - LEDs (para status de conexão)
